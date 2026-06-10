@@ -34,4 +34,4 @@ https://jsonplaceholder.typicode.com/users
 3. Search users using the search box.
 
 ## Author
-Mridul Krishan
+Mridual Krishan
